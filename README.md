@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8"/>
@@ -98,5 +97,6 @@
             <div class="backdrop"></div>
         </div>
     </div>
+<script src="apayh2.js"></script>
 </body>
 </html>
